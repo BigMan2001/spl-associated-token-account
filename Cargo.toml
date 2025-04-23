@@ -51,7 +51,7 @@ version = "2.1.0"
 version = "2.0.0"
 
 [dependencies.spl-token]
-version = "7.0"
+version = "8.0"
 features = ["no-entrypoint"]
 
 [dependencies.spl-token-2022]
